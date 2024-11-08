@@ -2,7 +2,7 @@
   -Why ML?  
   -Query Examples  
   -Database
-  -Data Mining
+  -Data Mining  
 2.Traditional Approach Vs Machine learning
 creating numbered list.  
 creating buttons  
