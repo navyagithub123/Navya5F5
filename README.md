@@ -22,9 +22,19 @@ integer	1,2,3,4
 float	1.2,3.64,234.2321,0.1312  
 Link_to_be_displayed  
 Google  
-https://bit.ly/rishi-ml    
-number=5  
-dec_num=5.754  
+https://bit.ly/rishi-ml
+import numpy as np  
+import  
+print("Hello World")  
+a=5  
+b=7  
+print("Addition:",a+b)  
+print("Subtraction:",a-b)  
+print("Multiplication:",a*b)  
+print("Division:",a/b)  
+print("Modulus:",a%b)  
+number=5    
+dec_num=5.754    
 word="Name"  
 subject=["Maths","Science","History"]  
 marks={"Maths":84,"Science":69,"History":96}  
