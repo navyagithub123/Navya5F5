@@ -22,6 +22,12 @@ integer	1,2,3,4
 float	1.2,3.64,234.2321,0.1312  
 Link_to_be_displayed  
 Google  
-https://bit.ly/rishi-ml  
+https://bit.ly/rishi-ml    
+number=5  
+dec_num=5.754  
+word="Name"  
+subject=["Maths","Science","History"]  
+marks={"Maths":84,"Science":69,"History":96}  
+
   
 [Amazon](https://www.amazon.in/)# Navya5F5
