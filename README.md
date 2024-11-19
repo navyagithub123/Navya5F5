@@ -38,6 +38,9 @@ dec_num=5.754
 word="Name"  
 subject=["Maths","Science","History"]  
 marks={"Maths":84,"Science":69,"History":96}  
+| hEAD 1| HEAD 2| HEAD 3|
+|-------|-------|------|
+|
 
   
 [Amazon](https://www.amazon.in/)# Navya5F5
