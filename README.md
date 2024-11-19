@@ -13,5 +13,21 @@ adding links
   -Categorization  
   -Trend Analysis  
   -Anamoly detection
+  Addition of two numbers
+a=4
+b=6
+print(a+b)
+
+a=4
+b=6
+print(a+b)
+Types of Data	Examples
+integer	1,2,3,4
+float	1.2,3.64,234.2321,0.1312
+Link_to_be_displayed
+
+Google
+
+https://bit.ly/rishi-ml
   
 [Amazon](https://www.amazon.in/)# Navya5F5
