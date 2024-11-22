@@ -40,9 +40,9 @@ subject=["Maths","Science","History"]
 marks={"Maths":84,"Science":69,"History":96}  
 | S.no | Title | Link |
 |-------|-------|------|  
-arr2=np.arange(1,200)  
-type(arr2)  
-arr2  
+  arr2=np.arange(1,200)    
+  type(arr2)    
+  arr2    
 
   
 [Amazon](https://www.amazon.in/)# Navya5F5
